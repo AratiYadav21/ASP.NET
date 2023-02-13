@@ -1,0 +1,4 @@
+C:\ASP.NET\Login.cs\Login.cs\bin\Login.cs.dll
+C:\ASP.NET\Login.cs\Login.cs\bin\Login.cs.pdb
+C:\ASP.NET\Login.cs\Login.cs\obj\Debug\Login.cs.dll
+C:\ASP.NET\Login.cs\Login.cs\obj\Debug\Login.cs.pdb
