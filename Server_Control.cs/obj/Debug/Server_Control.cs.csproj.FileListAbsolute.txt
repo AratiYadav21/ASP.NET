@@ -1,0 +1,4 @@
+C:\ASP.NET\Server_Control.cs\Server_Control.cs\bin\Server_Control.cs.dll
+C:\ASP.NET\Server_Control.cs\Server_Control.cs\bin\Server_Control.cs.pdb
+C:\ASP.NET\Server_Control.cs\Server_Control.cs\obj\Debug\Server_Control.cs.dll
+C:\ASP.NET\Server_Control.cs\Server_Control.cs\obj\Debug\Server_Control.cs.pdb
